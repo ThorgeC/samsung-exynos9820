@@ -67,7 +67,6 @@ jobs:
                        +force_dex_wqhd           \
                        +morosound                \
                        +boeffla_wl_blocker       \
-                       +os_patch_level=2023-06   \
                        +always_permit            \
                        +io_maple                 \
                        +io_fiops                 \
