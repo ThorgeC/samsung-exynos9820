@@ -55,7 +55,7 @@ jobs:
           set -e -o pipefail
           ./cruelbuild config                    \
                        model=${{ matrix.model }} \
-                       name="Custom-Kernel"      \
+                       name="Thorges-Kernel"     \
                        toolchain=$TOOLCHAIN      \
                        +magisk=v26.1             \
                        +nohardening              \
